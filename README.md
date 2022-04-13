@@ -18,6 +18,9 @@ This repository made for fulfill Tugas Besar 1 Probability and Statistic IF2220.
 5. [statsmodels](https://www.statsmodels.org/)
 
 ## Screenshot
+![image](https://user-images.githubusercontent.com/63847012/163216449-eb9ee6f5-d825-4df0-8224-a1daa545435c.png)
+![image](https://user-images.githubusercontent.com/63847012/163216643-dc4e1ded-09e3-47d9-87c0-5294e0c3b526.png)
+![image](https://user-images.githubusercontent.com/63847012/163216699-b94aec31-ecf8-4476-b13c-32d6f4609c91.png)
 
 ## General Information & Features
 
