@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb69fa73-88c6-45e8-a045-17f5a4b0b8e9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/nomor1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/nomor1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nomor2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/nomor2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nomor3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/nomor3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nomor4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/nomor4.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nomor5.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/nomor5.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nomor6.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/nomor6.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="27q6ryU52M7iL2bIAMb3w0RegZ8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb69fa73-88c6-45e8-a045-17f5a4b0b8e9" name="Changes" comment="" />
+      <created>1650035472136</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650035472136</updated>
+    </task>
+    <servers />
+  </component>
+</project>
